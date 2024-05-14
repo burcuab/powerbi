@@ -19,3 +19,4 @@ I used it in Whatif metric calculations. Here is the Revenue Whatif metric calcu
 
 ![image](https://github.com/burcuab/powerbi/assets/125803633/8778ccf1-3097-48d5-b942-364ec0eddcda)
 
+Sample pbi file is available to download.
